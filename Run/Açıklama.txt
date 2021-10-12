@@ -1,0 +1,2 @@
+Android Studio ortamında Code klasöründeki .zip uzantılı dosya açılır.
+Daha sonra Run edildiğinde uygulama çalışacaktır.
